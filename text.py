@@ -7,3 +7,4 @@ def type(s):
         sys.stdout.flush()
         time.sleep(random.random() * 0.1)
 type('SUDAH TIDAK BISA SEMUA? KONTAK AUTHOR, || SKILLMU BERGUNA UNTUK BACOTMU \n TAPI BACOTMU TIDAK BERGUNA UNTUK SKILLMU \n °TUAN B4DUT')
+Hallo
